@@ -213,5 +213,5 @@ ACCESS_TOKEN_EXPIRE_MINUTES=60
 
 # Author
 
-## Syed Mahammad Shareef
+## RAHUL RAJ K
 #### Python Developer
